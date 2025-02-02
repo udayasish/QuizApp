@@ -109,7 +109,7 @@ https://drive.google.com/file/d/17M3sUKsUrN3-dtcldW_4Yx2WfMgc9xv8/view?usp=drive
 
 For questions or feedback, feel free to reach out:  
 - **Email**: udayasish@gmail.com 
-- **GitHub**: [your-username](https://github.com/your-username)  
+- **GitHub**: https://github.com/udayasish  
 
 ---
 
