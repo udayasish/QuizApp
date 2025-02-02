@@ -77,25 +77,21 @@ quiz-app/
 ### Screenshots
 
 1. **Quiz Start Page**  
-   ![Quiz Start Page](https://drive.google.com/file/d/1c1zn_WqEqlR0n7OmupqkAyThcF6pNi-a/view?usp=drive_link)  
-   *A welcoming page to start the quiz.*
-
-   1. **Quiz Start Page**  
-   [https://drive.google.com/file/d/1c1zn_WqEqlR0n7OmupqkAyThcF6pNi-a/view?usp=drive_link](https://drive.google.com/file/d/1c1zn_WqEqlR0n7OmupqkAyThcF6pNi-a/view?usp=drive_link)  
+   https://drive.google.com/file/d/1c1zn_WqEqlR0n7OmupqkAyThcF6pNi-a/view?usp=drive_link
    *A welcoming page to start the quiz.*
 
 3. **Quiz Question Page**  
-   ![Quiz Question Page](https://drive.google.com/file/d/1Y4rS9Pbdb1TxclhuKeRHzI8s7wLwcelQ/view?usp=drive_link)  
+   https://drive.google.com/file/d/1Y4rS9Pbdb1TxclhuKeRHzI8s7wLwcelQ/view?usp=drive_link
    *Interactive quiz questions with progress tracking.*
 
 4. **Quiz Summary Page**  
-   ![Quiz Summary Page](https://drive.google.com/file/d/1guVbn-OULbOnjhDsyGliXgPqZEJjme28/view?usp=drive_link)  
+   https://drive.google.com/file/d/1guVbn-OULbOnjhDsyGliXgPqZEJjme28/view?usp=drive_link
    *Detailed summary of quiz results and performance insights.*
 
 ### Video Walkthrough
 
 Watch the app in action:  
-[![Quiz App Walkthrough](https://drive.google.com/file/d/17M3sUKsUrN3-dtcldW_4Yx2WfMgc9xv8/view?usp=drive_link)  
+https://drive.google.com/file/d/17M3sUKsUrN3-dtcldW_4Yx2WfMgc9xv8/view?usp=drive_link
 *Click the image to view the video.*
 
 ---
