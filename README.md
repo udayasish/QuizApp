@@ -80,11 +80,15 @@ quiz-app/
    ![Quiz Start Page](https://drive.google.com/file/d/1c1zn_WqEqlR0n7OmupqkAyThcF6pNi-a/view?usp=drive_link)  
    *A welcoming page to start the quiz.*
 
-2. **Quiz Question Page**  
+   1. **Quiz Start Page**  
+   [https://drive.google.com/file/d/1c1zn_WqEqlR0n7OmupqkAyThcF6pNi-a/view?usp=drive_link](https://drive.google.com/file/d/1c1zn_WqEqlR0n7OmupqkAyThcF6pNi-a/view?usp=drive_link)  
+   *A welcoming page to start the quiz.*
+
+3. **Quiz Question Page**  
    ![Quiz Question Page](https://drive.google.com/file/d/1Y4rS9Pbdb1TxclhuKeRHzI8s7wLwcelQ/view?usp=drive_link)  
    *Interactive quiz questions with progress tracking.*
 
-3. **Quiz Summary Page**  
+4. **Quiz Summary Page**  
    ![Quiz Summary Page](https://drive.google.com/file/d/1guVbn-OULbOnjhDsyGliXgPqZEJjme28/view?usp=drive_link)  
    *Detailed summary of quiz results and performance insights.*
 
@@ -118,7 +122,7 @@ For questions or feedback, feel free to reach out:
 This project is submitted as part of an assignment. Below are the details required for submission:
 
 - **GitHub Repository**: [Quiz App Repository](https://github.com/udayasish)
-- **Screenshots and Video Walkthrough**: Included in the [Screenshots and Videos](#screenshots-and-videos) section above.
+- **Screenshots and Video Walkthrough**: Included in the [Screenshots and Videos](https://drive.google.com/drive/folders/19zvKBQxhbXgan-fwzdDJT1TY3r_Hi9lM) section above.
 
 Please ensure all dependencies are installed using `npm install` and the app is run using `npm run dev` to test the functionality locally.
 
