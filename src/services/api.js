@@ -2,8 +2,8 @@ import axios from "axios";
 
 export const fetchQuizData = async () => {
     try {
-      // const res = await axios.get('/api/Uw5CrX');
-      const res = await axios.get('https://api.jsonserve.com/Uw5CrX');
+      const res = await axios.get('/api/Uw5CrX');
+      
       console.log("Full API Response:", res.data);
       
       if (!res.data || !res.data.questions) {
