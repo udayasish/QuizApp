@@ -72,6 +72,8 @@ quiz-app/
 
 ## Screenshots and Videos
 
+📌 View all screenshots and video demonstrations here: https://drive.google.com/drive/folders/19zvKBQxhbXgan-fwzdDJT1TY3r_Hi9lM?usp=drive_link
+
 ### Screenshots
 
 1. **Quiz Start Page**  
@@ -108,7 +110,6 @@ Watch the app in action:
 For questions or feedback, feel free to reach out:  
 - **Email**: udayasish@gmail.com 
 - **GitHub**: [your-username](https://github.com/your-username)  
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
 
 ---
 
